@@ -1,0 +1,4 @@
+测试git服务器
+
+git remote add local_dir git://host.git
+
